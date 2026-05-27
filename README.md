@@ -113,7 +113,7 @@ This project was my first end-to-end regression pipeline. Key takeaways:
 ## 🔗 Links
 
 - [Kaggle Competition Page](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
-- [My Kaggle Profile](https://www.kaggle.com/nothingspecial0123) *(update with your profile link)*
+- [My Kaggle Profile](https://www.kaggle.com/nothingspecial0123)
 
 ---
 
